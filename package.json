@@ -1,0 +1,22 @@
+{
+  "name": "node_starter_cheerio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "crawl": "node my-new-crawler.js",
+    "start": "nodemon my-new-crawler.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "crawler": "^1.0.5",
+    "express": "^4.13.4",
+    "fs": "0.0.1-security",
+    "mongojs": "^2.3.0",
+    "request": "^2.69.0",
+    "url-parse": "^1.1.9"
+  }
+}

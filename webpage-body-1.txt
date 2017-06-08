@@ -1,0 +1,183 @@
+    O'Reilly
+              Ideas
+              Learning
+              Conferences
+              Shop
+  Search  
+    search
+        Feedback
+        Loading...
+        Log in
+        Log out
+    configure
+    Close Menu
+    Open Menu
+    On our radar
+            AI
+            Business
+            Data
+            Design
+            Economy
+            Operations
+            Security
+            Software Architecture
+            Software Engineering
+            Web Programming
+      See all
+              Ideas
+              Learning
+              Conferences
+              Shop
+  Search  
+    search
+    On our radar
+            AI
+            Business
+            Data
+            Design
+            Economy
+            Operations
+            Security
+            Software Architecture
+            Software Engineering
+            Web Programming
+      See all
+                  Web Programming
+        Our take on Web technologies, tools, and methods.
+      Read the introduction 
+    arrow-right
+    Ideas
+            Web Programming
+          2016–2017 Web Salary Survey
+  By
+  John KingAndy Oram
+          Tools, trends, what pays (and what doesn't) for web professionals.
+            Web Programming
+          5 web trends for 2017
+  By
+  Allyson MacDonald
+          What's coming with PWAs, Angular, React, and Vue; the rising tide of functional reactive; looking beyond REST to GraphQL and Falcor; and the future of artificial intelligence on the web.
+            Web Programming
+          Why separating the signal from the noise is key for modern web developers
+  By
+  Allyson MacDonaldCory House
+          Five questions with Cory House: On building a JavaScript development environment, getting started with React, and gaining new skills as a developer.
+            Web Programming
+          SVG: 5 questions, 10 answers
+  By
+  Meg Foley
+          Dudley Storey and Sarah Drasner explain why SVG has become a fundamental technology.
+            Web Programming
+          Session management with microservices
+  By
+  Sequoia McDowell
+          Considerations for moving your web app from a monolith to microservice architecture.
+            Web Programming
+          Putting web accessibility front and center
+  By
+  Tammy Everts
+          Learn to make your sites and apps accessible to all users with this Learning Path at Fluent 2017.
+            Web Programming
+          What is a service worker?
+  By
+  Alex Rickabaugh
+          Get up to speed on building offline experiences in your progressive web apps.
+            Web Programming
+          5 things to learn before learning React
+  By
+  Nicole Chung
+          Level up your skills set before diving into React.
+  More ideas 
+    arrow-right
+    Learning
+            Web Programming
+          Learn faster. Dig deeper. See farther.
+          Join Safari. Get a free trial today and find answers on the fly, or master something new and useful.
+        Video
+    play
+            Web Programming
+          What developers are doing (and not doing) to help with performance
+  By
+  Tammy Everts
+          Poor load times hurt your UX and your bottom line.
+        Runnable code
+    code
+            Web Programming
+          Python Web Frameworks
+  By
+  Carlos de la Guardia
+          This report surveys 30 Python web frameworks that have more than 1,000 monthly downloads and provides a deeper look into six of the most widely used.
+        Video
+    play
+            Web Programming
+          End-to-end testing for progressively enhanced sites
+  By
+  Brian Belhumeur
+          Learn the techniques and strategies for progressively enhancing your tests so they adapt to the site you’re testing.
+        Runnable code
+    code
+            Web Programming
+          How to do client-side form validation with Elm
+  By
+  Matthew Griffith
+          Elm’s static typing and compiler error messages lead to more productivity.
+        Video
+    play
+            Web Programming
+          Exploring progressive web apps in the real world
+  By
+  Max Firtman
+          How companies are providing native experiences in their mobile apps.
+  More learning 
+    arrow-right
+    Events
+      O'Reilly Fluent Conference
+        June 19-22, 2017San Jose, CA
+        Building a Better Web
+                  Learn More
+          Sessions
+              Session
+      Getting out of your Git messes
+  By
+  Katie Sylor-Miller
+              Tutorial
+      Build a JavaScript development environment
+  By
+  Cory House
+              2-Day Training
+      Mastering progressive web apps: Creating offline app experiences with service workers, web performance, and push notifications
+  By
+  Maximiliano Firtman
+              Session
+      RxJS 5: Thinking reactively
+  By
+  Ben Lesh
+    People
+          Kyle Simpson
+          Kyle Simpson is head of curriculum for MakerSquare and an evangelist of the Open Web. He’s passionate about all things JavaScript, writing books, teaching, speaking, and contributing to the world of OSS.
+          Wes Higbee
+          Wes Higbee helps organizations make the leap from today to tomorrow.
+His career has been a journey. He started out in software development helping organizations tackle business opportunities. In wor...
+          Lorna Jane Mitchell
+          Lorna Mitchell is based in Leeds, UK where she is a Developer Advocate at IBM Cloud Data Services and an experienced developer and trainer. Lorna is the accomplished author of a number of books includ...
+  Topic image: Seaweed farms in South Korea
+                  (source: NASA Goddard Space Flight Center).
+      About Us
+        Our Company
+        Teach/Speak/Write
+        Careers
+        Customer Service
+        Contact Us
+      Site Map
+        Ideas
+        Learning
+        Topics
+        All
+    facebook
+    twitter
+    youtube-large
+    google
+    linkedin
+  	© 2017 O'Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
+  Terms of Service  •	Privacy Policy • Editorial Independence
+  _satellite && _satellite.pageBottom();
